@@ -1,0 +1,38 @@
+.container {
+	display: block;
+	margin: 20px;
+}
+
+.banner .card {
+	background: #2c2c2c;
+	border: 120px solid #2c2c2c;
+	border-radius: 15px;
+	box-shadow: 0px 3px 20px 2px blue;
+	display: block;
+}
+.banner .card .heading {
+	color: deepskyblue;
+	font-family: "Playfair display", serif;
+	font-size: 40px;
+	font-weight: 700;
+	margin-bottom: 5px;
+	padding: 40px;
+}
+p {
+	color: blue;
+	font-size: 20px;
+	font-style: italic;
+	float : left;
+}
+.row {
+	display: block;
+
+	margin-top: 30px;
+	}
+
+	.row .my-image {
+		border: 1px solid #35eea3;
+		border-radius: 15px;
+		box-shadow: 0px 3px 20px 2px #2c2c2c;
+		width: 500px;
+	}
